@@ -10,4 +10,8 @@ go run main.go -d facebook.com
 
 ## Run as distributed binary
 
+```sh
+go run github.com/hrvadl/certchecker@latest -d google.com
+```
+
 ## Examples
